@@ -1,0 +1,3 @@
+2020-09-24 16:26:28 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DELETE *[*] FROM USER"; expected "identifier"; SQL statement:
+DELETE * FROM USER [42001-200]
